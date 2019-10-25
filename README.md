@@ -1,2 +1,2 @@
 # EJ2-DataGrid-Mvc-ColumnChooser
-A Sample to customize the default columnChooser by re-rendering the columns which helps to improve performance
+A Sample to for re-generate columns instead of showing and hiding each columns in UI level
